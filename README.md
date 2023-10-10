@@ -1,2 +1,2 @@
-# kaggle_pandas_exercises
+# Kaggle Pandas Exercises
 These are exercises from Kaggle Pandas Course.
